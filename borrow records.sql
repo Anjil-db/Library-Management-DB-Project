@@ -1,0 +1,1 @@
+SELECT * FROM Borrow_Records;
